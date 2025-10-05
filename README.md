@@ -72,7 +72,7 @@ TopSpeed : 280
 Milege : 2.3
 Price : 20
 Safety : 8.0
-AuctionRating : 115.1
+AuctionRating : 82.9
 ```
 
 ---
